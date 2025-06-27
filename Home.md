@@ -8,8 +8,6 @@
 
 As its name suggests, this is a ***client-side*** only mod with all the features to optimize your gaming experience to the fullest!
 
-**All the features that have been added can be found in the [Wiki](https://github.com/pynickle/Better-Client/wiki)**
-
 ## Dependency
 
 The vast majority of the features are switchable, and you can easily configure them visually within the game by **"YetAnotherConfigLib"** mod
