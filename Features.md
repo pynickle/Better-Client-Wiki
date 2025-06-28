@@ -26,10 +26,10 @@
 ### **8.** *Axolotl Bucket Fix*  (1.21.1+)
 * Now buckets containing different variants of axolotl display different textures.
 
-### **9.** *Chat History Retention*  (1.21.5+)
+### **9.** *Chat History Retention*  (1.21.1+)
 * Now, quitting the world and server will not clear the chat history.
 
-### **10.** *Chat Up*  (1.21.5+)
+### **10.** *Chat Up*  (1.21.1+)
 * When you have armor value, the chat bar will move up ten pixels to avoid overlapping with the armor value display.
 
 ### **11.** *Book Save Confirmation*  (1.21.1, 1.21.6+)
