@@ -1,4 +1,4 @@
-### **1.** *Bee Info*  (1.21.1+)
+### **1.** *Bee Info*  (1.21.1)
 * You can now see the number of bees and the amount of honey in beehives and bee nests, just like the feature added natively in 1.21.2.
 
 ### **2.** *Fading Out Night Vision*  (1.21.1+)
@@ -53,3 +53,5 @@
 ### **17.** *Bundle Up*  (1.21.6+)
 * Now, simply hover your mouse over the bundle and press the R key to store items with a single click, maximizing your backpack space.
 
+### **18.** *Visible Trade*  (1.21.6+)
+* Now all trades are displayed at the beginning, without having to wait until after the upgrade.
