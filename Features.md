@@ -55,3 +55,6 @@
 
 ### **18.** *Visible Trade*  (1.21.6+)
 * Now all trades are displayed at the beginning, without having to wait until after the upgrade.
+
+### **19.** *Durability Tooltip*  (1.21.6+)
+* The tooltip for damageable items now displays durability information.
