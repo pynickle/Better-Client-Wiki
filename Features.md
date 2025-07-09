@@ -53,11 +53,8 @@
 ### **17.** *Bundle Up*  (1.21.6+)
 * Now, simply hover your mouse over the bundle and press the R key to store items with a single click, maximizing your backpack space.
 
-### **18.** *Visible Trade*  (1.21.6+)
-* Now all trades are displayed at the beginning, without having to wait until after the upgrade.
-
-### **19.** *Durability Tooltip*  (1.21.6+)
+### **18.** *Durability Tooltip*  (1.21.6+)
 * The tooltip for damageable items now displays durability information.
 
-### **20.** *Trading Hud*  (1.21.6+)
+### **19.** *Trading Hud*  (1.21.6+)
 * Now, simply hover your mouse over a villager, and their trade items will be displayed in the upper left corner.
