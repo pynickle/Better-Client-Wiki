@@ -58,3 +58,6 @@
 
 ### **19.** *Durability Tooltip*  (1.21.6+)
 * The tooltip for damageable items now displays durability information.
+
+### **20.** *Trading Hud*  (1.21.6+)
+* Now, simply hover your mouse over a villager, and their trade items will be displayed in the upper left corner.
