@@ -23,5 +23,3 @@ This mod is actively being updated and more features will be added in the future
 * **1.21.1 Neoforge/Fabric: Partly Synced With 1.21.6/7/8**
 * **1.21.5 Neoforge/Fabric: Stop Updating**
 * **1.21.6/7/8 Neoforge/Fabric: Active Updating**
-
-### **Separated from mod [Enchanting Vanilla](https://www.curseforge.com/minecraft/mc-mods/enchanting-vanilla)**
