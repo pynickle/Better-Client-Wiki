@@ -61,3 +61,6 @@
 
 ### **20.** *Glowing Ender Eye*  (1.21.6+)
 * Eye of ender now glows when thrown, making it easier to see in dark environments.
+
+### **21.** *World Icon Update*  (1.21.6+)
+* This makes the single-player world icon regenerate each time the world is loaded instead of keeping the original icon.
