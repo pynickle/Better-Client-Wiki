@@ -67,3 +67,6 @@
 
 ### **22.** *Full Brightness Toggle*  (1.21.6+)
 * Now you can toggle full brightness on and off, making it easier to see in dark environments.
+
+### **23.** *Compass Tooltip*  (1.21.9+)
+* The compass will display their detailed coordinates and dimensional information.
