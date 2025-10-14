@@ -20,6 +20,6 @@ This mod is actively being updated and more features will be added in the future
 
 ## Version Support
 
-* **1.21.1 Neoforge/Fabric: Partly Synced With 1.21.6/7/8**
-* **1.21.5 Neoforge/Fabric: Stop Updating**
-* **1.21.6/7/8 Neoforge/Fabric: Active Updating**
+* **1.21.1 Neoforge/Fabric: Partly Synced With 1.21.9/10**
+* **1.21.2-1.21.8 Neoforge/Fabric: Stop Updating**
+* **1.21.9/10 Neoforge/Fabric: Active Updating**
