@@ -59,7 +59,7 @@
 ### **19.** *Trading Hud*  (1.21.6+)
 * Now, simply hover your mouse over a villager, and their trade items will be displayed in the upper left corner.
 
-### **20.** *Glowing Ender Eye*  (1.21.6+)
+### **20.** *Glowing Ender Eye*  (1.21.1, 1.21.6+)
 * Eye of ender now glows when thrown, making it easier to see in dark environments.
 
 ### **21.** *World Icon Update*  (1.21.6+)
