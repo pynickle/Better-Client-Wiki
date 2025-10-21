@@ -70,3 +70,6 @@
 
 ### **23.** *Compass Tooltip*  (1.21.9+)
 * The compass will display their detailed coordinates and dimensional information.
+
+### **24.** *Suspicious Stew Tooltip*  (1.21.9+)
+* The effect of the Suspicious Stew will now be permanently displayed in the tooltip.
